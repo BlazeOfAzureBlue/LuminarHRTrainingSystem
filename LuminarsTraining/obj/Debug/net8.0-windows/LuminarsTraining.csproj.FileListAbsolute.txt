@@ -1,0 +1,16 @@
+C:\Users\Brayd\source\repos\LuminarsTraining\LuminarsTraining\bin\Debug\net8.0-windows\LuminarsTraining.exe
+C:\Users\Brayd\source\repos\LuminarsTraining\LuminarsTraining\bin\Debug\net8.0-windows\LuminarsTraining.deps.json
+C:\Users\Brayd\source\repos\LuminarsTraining\LuminarsTraining\bin\Debug\net8.0-windows\LuminarsTraining.runtimeconfig.json
+C:\Users\Brayd\source\repos\LuminarsTraining\LuminarsTraining\bin\Debug\net8.0-windows\LuminarsTraining.dll
+C:\Users\Brayd\source\repos\LuminarsTraining\LuminarsTraining\bin\Debug\net8.0-windows\LuminarsTraining.pdb
+C:\Users\Brayd\source\repos\LuminarsTraining\LuminarsTraining\obj\Debug\net8.0-windows\LuminarsTraining.Form1.resources
+C:\Users\Brayd\source\repos\LuminarsTraining\LuminarsTraining\obj\Debug\net8.0-windows\LuminarsTraining.csproj.GenerateResource.cache
+C:\Users\Brayd\source\repos\LuminarsTraining\LuminarsTraining\obj\Debug\net8.0-windows\LuminarsTraining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brayd\source\repos\LuminarsTraining\LuminarsTraining\obj\Debug\net8.0-windows\LuminarsTraining.AssemblyInfoInputs.cache
+C:\Users\Brayd\source\repos\LuminarsTraining\LuminarsTraining\obj\Debug\net8.0-windows\LuminarsTraining.AssemblyInfo.cs
+C:\Users\Brayd\source\repos\LuminarsTraining\LuminarsTraining\obj\Debug\net8.0-windows\LuminarsTraining.csproj.CoreCompileInputs.cache
+C:\Users\Brayd\source\repos\LuminarsTraining\LuminarsTraining\obj\Debug\net8.0-windows\LuminarsTraining.dll
+C:\Users\Brayd\source\repos\LuminarsTraining\LuminarsTraining\obj\Debug\net8.0-windows\refint\LuminarsTraining.dll
+C:\Users\Brayd\source\repos\LuminarsTraining\LuminarsTraining\obj\Debug\net8.0-windows\LuminarsTraining.pdb
+C:\Users\Brayd\source\repos\LuminarsTraining\LuminarsTraining\obj\Debug\net8.0-windows\LuminarsTraining.genruntimeconfig.cache
+C:\Users\Brayd\source\repos\LuminarsTraining\LuminarsTraining\obj\Debug\net8.0-windows\ref\LuminarsTraining.dll

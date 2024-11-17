@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LuminarsTraining/1.0.0": {
+        "runtime": {
+          "LuminarsTraining.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LuminarsTraining/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
