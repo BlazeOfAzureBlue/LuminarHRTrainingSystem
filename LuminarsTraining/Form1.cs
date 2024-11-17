@@ -56,9 +56,9 @@ namespace LuminarsTraining
                 listBox4.Items.RemoveAt(itemSelected);
                 listBox5.Items.RemoveAt(itemSelected);
                 playerKills.RemoveAt(itemSelected);
-                CplayerKills.RemoveAt(itemSelected);
                 CplayerDeaths.RemoveAt(itemSelected);
                 playerDeaths.RemoveAt(itemSelected);
+                CplayerDeaths.RemoveAt(itemSelected);
                 playerMadeRetreat.RemoveAt(itemSelected);
                 CplayerMadeRetreat.RemoveAt(itemSelected);
                 Warnings.RemoveAt(itemSelected);
