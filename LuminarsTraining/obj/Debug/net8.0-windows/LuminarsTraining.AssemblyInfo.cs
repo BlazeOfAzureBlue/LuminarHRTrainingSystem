@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LuminarsTraining")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a321f8e8da1c19f25b3cba1016408172bd57b883")]
 [assembly: System.Reflection.AssemblyProductAttribute("LuminarsTraining")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LuminarsTraining")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
